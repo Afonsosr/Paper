@@ -1,0 +1,24 @@
+# Jupyter / Python
+.ipynb_checkpoints/
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+*.swp
+.DS_Store
+
+# Dados / ficheiros grandes (ajusta se quiseres incluir)
+*.zip
+*.tar.gz
+*.csv
+*.xlsx
+*.h5
+*.sqlite
+data/
+storage/
+workdir/
+
+# Imagens (se houver muitas e não quiseres subir)
+*.png
+*.jpg
+*.jpeg
